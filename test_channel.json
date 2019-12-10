@@ -1,0 +1,24 @@
+{
+  "channel_name": "Test Channel",
+  "fanart": "",
+  "thumbnail": "",
+  "menu": [
+    {
+      "title": "Film (Classico)",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png"
+    },
+    {
+      "title": "Film (Submenu)",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png",
+      "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "qualcosa":"Quello he ti pare"}
+    },
+    {
+      "title": "Film (Menu di 2° livello)",
+      "link": "/movie.json",
+      "thumbnail": "channel_movies.png",
+      "level2":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "qualcosa":"Quello che ti pare"}
+    }
+  ]
+}

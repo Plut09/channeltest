@@ -8,9 +8,7 @@
       "link": "/movie.json",
       "thumbnail": "channel_movies.png"
     },
-    {
-	"menu": [
-	{
+  {
       "title": "Film (Submenu)",
       "link": "/movie.json",
       "thumbnail": "channel_movies.png",
@@ -23,6 +21,4 @@
       "level2":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "qualcosa":"Quello che ti pare"}
  }
   ]
-}
-      ]
 }

@@ -15,7 +15,7 @@
       "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "qualcosa":"Quello he ti pare"}
     },
     {
-      "title": "Film (Menu di 2° livello)",
+      "title": "Film (level2)",
       "link": "/movie.json",
       "thumbnail": "channel_movies.png",
       "level2":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "qualcosa":"Quello che ti pare"}

@@ -16,7 +16,7 @@
     },
     {
       "title": "Film",
-      "link": "/movie.json",
+      "link": "/menu_list.json",
       "thumbnail": "channel_movies.png",
       "level2":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "qualcosa":"Quello che ti pare"}
  }

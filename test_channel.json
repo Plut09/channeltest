@@ -10,7 +10,7 @@
     },
   {
       "title": "Film (Submenu)",
-      "link": "/Movie.json",
+      "link": " /serie_list/Test_id",
       "thumbnail": "channel_movies.png",
       "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "qualcosa":"Quello he ti pare"}
     },

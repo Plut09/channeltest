@@ -847,7 +847,24 @@
     {
      "season": "1",
      "link": "/serie_list/A/Awkward.json"
-    }
+  }
+   ]
+  },
+{
+   "title": "9 test",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/testid"
+      }
 			]
 		}
 	]

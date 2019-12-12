@@ -15,7 +15,7 @@
       "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "0-9_A-Z":"alfanumerico"}
     },
     {
-      "title": "Film",
+      "title": "Serie Tv",
       "link": "/menu_list.json",
       "thumbnail": "channel_movies.png",
       "level2":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "0-9_A-Z":"alfanumerico"}

@@ -67,23 +67,6 @@
    ]
   },
 {
-   "title": "12 monkeys.json.txt",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "09",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/09/12_monkeys.json.txt.json"
-    }
-   ]
-  },
-{
    "title": "15 love.json",
    "year": "",
    "tmdb_id": "",
@@ -114,23 +97,6 @@
     {
      "season": "1",
      "link": "/serie_list/09/22.11.63.json.json"
-    }
-   ]
-  },
-{
-   "title": "24 (2).json",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "09",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/09/24_(2).json.json"
     }
    ]
   },

@@ -1,871 +1,391 @@
 {
-	"tvshows_list": [
-{
-   "title": "A.D. La Bibbia Continua",
+   "title": "8 Sotto Un Tetto - Family Matters.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/A.D._La_Bibbia_Continua.json"
+     "link": "/serie_list/09/8_Sotto_Un_Tetto_-_Family_Matters.json.json"
     }
    ]
   },
 {
-   "title": "A come Andromeda",
+   "title": "9-1-1.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/A_come_Andromeda.json"
+     "link": "/serie_list/09/9-1-1.json.json"
     }
    ]
   },
 {
-   "title": "A Very English Scandal",
+   "title": "11 settembre - Tragedia annunciata.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/A_Very_English_Scandal.json"
+     "link": "/serie_list/09/11_settembre_-_Tragedia_annunciata.json.json"
     }
    ]
   },
 {
-   "title": "A Young Doctor Notebook",
+   "title": "12 monkeys.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/A_Young_Doctor_Notebook.json"
+     "link": "/serie_list/09/12_monkeys.json.json"
     }
    ]
   },
 {
-   "title": "Absentia",
+   "title": "12 monkeys.json.txt",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Absentia.json"
+     "link": "/serie_list/09/12_monkeys.json.txt.json"
     }
    ]
   },
 {
-   "title": "Absolutely Fabulous",
+   "title": "15 love.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Absolutely_Fabulous.json"
+     "link": "/serie_list/09/15_love.json.json"
     }
    ]
   },
 {
-   "title": "Adriano Olivetti",
+   "title": "22.11.63.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Adriano_Olivetti.json"
+     "link": "/serie_list/09/22.11.63.json.json"
     }
    ]
   },
 {
-   "title": "After Life",
+   "title": "24 (2).json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/After_Life.json"
+     "link": "/serie_list/09/24_(2).json.json"
     }
    ]
   },
 {
-   "title": "Agatha Raisin",
+   "title": "24 Legacy.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Agatha_Raisin.json"
+     "link": "/serie_list/09/24_Legacy.json.json"
     }
    ]
   },
 {
-   "title": "Agent Carter",
+   "title": "24 Legacy_2 da unire tutti.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Agent_Carter.json"
+     "link": "/serie_list/09/24_Legacy_2_da_unire_tutti.json.json"
     }
    ]
   },
 {
-   "title": "Agent X",
+   "title": "24.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Agent_X.json"
+     "link": "/serie_list/09/24.json.json"
     }
    ]
   },
 {
-   "title": "Agente Speciale",
+   "title": "30 Rock.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Agente_Speciale.json"
+     "link": "/serie_list/09/30_Rock.json.json"
     }
    ]
   },
 {
-   "title": "Agents Of S.H.I.E.L.D",
+   "title": "100 Code - The Hundred Code.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Agents_Of_S.H.I.E.L.D.json"
+     "link": "/serie_list/09/100_Code_-_The_Hundred_Code.json.json"
     }
    ]
   },
 {
-   "title": "Agents Of S.H.I.E.L",
+   "title": "666 Park Avenue.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Agents_Of_S.H.I.E.L.json"
+     "link": "/serie_list/09/666_Park_Avenue.json.json"
     }
    ]
   },
 {
-   "title": "Ai confini della realta",
+   "title": "800 Words.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Ai_confini_della_realta.json"
+     "link": "/serie_list/09/800_Words.json.json"
     }
    ]
   },
 {
-   "title": "Albert e luomo nero",
+   "title": "1992.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Albert_e_luomo_nero.json"
+     "link": "/serie_list/09/1992.json.json"
     }
    ]
   },
 {
-   "title": "Alcatraz",
+   "title": "1993.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Alcatraz.json"
+     "link": "/serie_list/09/1993.json.json"
     }
    ]
   },
 {
-   "title": "Aleph",
+   "title": "90210.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Aleph.json"
+     "link": "/serie_list/09/90210.json.json"
     }
    ]
   },
 {
-   "title": "Alex & Co",
+   "title": "2 Broke Girls.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Alex_&_Co.json"
+     "link": "/serie_list/09/2_Broke_Girls.json.json"
     }
    ]
   },
 {
-   "title": "Alex & Co2",
+   "title": "3 cuori in affitto.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Alex_&_Co2.json"
+     "link": "/serie_list/09/3_cuori_in_affitto.json.json"
     }
    ]
   },
 {
-   "title": "AleX Indagini Su Mondi Segreti",
+   "title": "3% - 3 Percente S01-03e01-26.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/AleX_Indagini_Su_Mondi_Segreti.json"
+     "link": "/serie_list/09/3%_-_3_Percente_S01-03e01-26.json.json"
     }
    ]
   },
 {
-   "title": "Alf",
+   "title": "7 Days.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Alf.json"
+     "link": "/serie_list/09/7_Days.json.json"
     }
    ]
   },
 {
-   "title": "Alfred Hitchcock Presenta",
+   "title": "8 semplici regole.json",
    "year": "",
    "tmdb_id": "",
    "genere": "",
    "director": "",
-   "0-9_A-Z": "A",
+   "0-9_A-Z": "09",
    "actors": [
     ""
    ],
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/A/Alfred_Hitchcock_Presenta.json"
+     "link": "/serie_list/09/8_semplici_regole.json.json"
     }
    ]
   },
-{
-   "title": "Alias",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Alias.json"
-    }
-   ]
-  },
-{
-   "title": "Alice",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Alice.json"
-    }
-   ]
-  },
-{
-   "title": "Alien nation",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Alien_nation.json"
-    }
-   ]
-  },
-{
-   "title": "All American",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/All_American.json"
-    }
-   ]
-  },
-{
-   "title": "Alla Conquista del West",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Alla_Conquista_del_West.json"
-    }
-   ]
-  },
-{
-   "title": "Allegiance",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Allegiance.json"
-    }
-   ]
-  },
-{
-   "title": "Ally McBeal",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Ally_McBeal.json"
-    }
-   ]
-  },
-{
-   "title": "Almost Human",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Almost_Human.json"
-    }
-   ]
-  },
-{
-   "title": "Alphas",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Alphas.json"
-    }
-   ]
-  },
-{
-   "title": "Altered Carbon",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Altered_Carbon.json"
-    }
-   ]
-  },
-{
-   "title": "Altro Che Caffe",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Altro_Che_Caffe.json"
-    }
-   ]
-  },
-{
-   "title": "American Crime Story",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/American_Crime_Story.json"
-    }
-   ]
-  },
-{
-   "title": "American Gods",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/American_Gods.json"
-    }
-   ]
-  },
-{
-   "title": "American Gothic",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/American_Gothic.json"
-    }
-   ]
-  },
-{
-   "title": "American Horror Story-Apocalypse",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/American_Horror_Story-Apocalypse.json"
-    }
-   ]
-  },
-{
-   "title": "Andromeda",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Andromeda.json"
-    }
-   ]
-  },
-{
-   "title": "Angel",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Angel.json"
-    }
-   ]
-  },
-{
-   "title": "Angie Tribeca",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Angie_Tribeca.json"
-    }
-   ]
-  },
-{
-   "title": "Animal Kingdom",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Animal_Kingdom.json"
-    }
-   ]
-  },
-{
-   "title": "APB",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/APB.json"
-    }
-   ]
-  },
-{
-   "title": "Aquarius",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Aquarius.json"
-    }
-   ]
-  },
-{
-   "title": "Arrow",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Arrow.json"
-    }
-   ]
-  },
-{
-   "title": "Arsenio Lupin",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Arsenio_Lupin.json"
-    }
-   ]
-  },
-{
-   "title": "Ashes to Ashes",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Ashes_to_Ashes.json"
-    }
-   ]
-  },
-{
-   "title": "A-Team",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/A-Team.json"
-    }
-   ]
-  },
-{
-   "title": "Atlantis",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Atlantis.json"
-    }
-   ]
-  },
-{
-   "title": "Awkward",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/A/Awkward.json"
-  }
-   ]
-  },
-{
-   "title": "9",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "A",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/testid"
-      }
-			]
-		}
-	]
-}

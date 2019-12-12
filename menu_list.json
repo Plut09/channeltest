@@ -35,7 +35,7 @@
    ]
   },
 {
-   "title": "11 settembre - Tragedia annunciata.json",
+   "title": "11 settembre - Tragedia annunciata",
    "year": "",
    "tmdb_id": "",
    "genere": "",
@@ -47,12 +47,12 @@
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/09/11_settembre_-_Tragedia_annunciata.json.json"
+     "link": "/serie_list/09/11_settembre_-_Tragedia_annunciata.json"
     }
    ]
   },
 {
-   "title": "12 monkeys.json",
+   "title": "12 monkeys",
    "year": "",
    "tmdb_id": "",
    "genere": "",
@@ -64,12 +64,12 @@
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/09/12_monkeys.json.json"
+     "link": "/serie_list/09/12_monkeys.json"
     }
    ]
   },
 {
-   "title": "15 love.json",
+   "title": "15 love",
    "year": "",
    "tmdb_id": "",
    "genere": "",
@@ -81,12 +81,12 @@
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/09/15_love.json.json"
+     "link": "/serie_list/09/15_love.json"
     }
    ]
   },
 {
-   "title": "22.11.63.json",
+   "title": "22.11.63.",
    "year": "",
    "tmdb_id": "",
    "genere": "",
@@ -98,12 +98,12 @@
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/09/22.11.63.json.json"
+     "link": "/serie_list/09/22.11.63.json"
     }
    ]
   },
 {
-   "title": "24 (2).json",
+   "title": "24 Legacy",
    "year": "",
    "tmdb_id": "",
    "genere": "",
@@ -115,24 +115,7 @@
    "seasons_list": [
     {
      "season": "1",
-     "link": "/serie_list/09/24_(2).json.json"
-    }
-   ]
-  },
-{
-   "title": "24 Legacy.json",
-   "year": "",
-   "tmdb_id": "",
-   "genere": "",
-   "director": "",
-   "0-9_A-Z": "09",
-   "actors": [
-    ""
-   ],
-   "seasons_list": [
-    {
-     "season": "1",
-     "link": "/serie_list/09/24_Legacy.json.json"
+     "link": "/serie_list/09/24_Legacy.json"
     }
    ]
   },

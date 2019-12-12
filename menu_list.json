@@ -1,4 +1,6 @@
 {
+	"tvshows_list": [
+{
    "title": "8 Sotto Un Tetto - Family Matters.json",
    "year": "",
    "tmdb_id": "",
@@ -97,6 +99,23 @@
     {
      "season": "1",
      "link": "/serie_list/09/22.11.63.json.json"
+    }
+   ]
+  },
+{
+   "title": "24 (2).json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "09",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/09/24_(2).json.json"
     }
    ]
   },
@@ -355,3 +374,1263 @@
     }
    ]
   },
+  {
+"title": "A.D. La Bibbia Continua.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/A.D._La_Bibbia_Continua.json.json"
+    }
+   ]
+  },
+{
+   "title": "A come Andromeda.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/A_come_Andromeda.json.json"
+    }
+   ]
+  },
+{
+   "title": "A Very English Scandal.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/A_Very_English_Scandal.json.json"
+    }
+   ]
+  },
+{
+   "title": "A Young Doctor Notebook.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/A_Young_Doctor_Notebook.json.json"
+    }
+   ]
+  },
+{
+   "title": "Absentia.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Absentia.json.json"
+    }
+   ]
+  },
+{
+   "title": "Absolutely Fabulous.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Absolutely_Fabulous.json.json"
+    }
+   ]
+  },
+{
+   "title": "Adriano Olivetti.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Adriano_Olivetti.json.json"
+    }
+   ]
+  },
+{
+   "title": "After Life.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/After_Life.json.json"
+    }
+   ]
+  },
+{
+   "title": "Agatha Raisin.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Agatha_Raisin.json.json"
+    }
+   ]
+  },
+{
+   "title": "Agent Carter.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Agent_Carter.json.json"
+    }
+   ]
+  },
+{
+   "title": "Agent X.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Agent_X.json.json"
+    }
+   ]
+  },
+{
+   "title": "Agente Speciale.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Agente_Speciale.json.json"
+    }
+   ]
+  },
+{
+   "title": "Agents Of S.H.I.E.L.D.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Agents_Of_S.H.I.E.L.D.json.json"
+    }
+   ]
+  },
+{
+   "title": "Agents Of S.H.I.E.L.json",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Agents_Of_S.H.I.E.L.json.json"
+    }
+   ]
+  },
+{
+   "title": "Ai confini della realta",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Ai_confini_della_realta.json"
+    }
+   ]
+  },
+{
+   "title": "Albert e luomo nero",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Albert_e_luomo_nero.json"
+    }
+   ]
+  },
+{
+   "title": "Alcatraz",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Alcatraz.json"
+    }
+   ]
+  },
+{
+   "title": "Aleph",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Aleph.json"
+    }
+   ]
+  },
+{
+   "title": "Alex & Co",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Alex_&_Co.json"
+    }
+   ]
+  },
+{
+   "title": "Alex & Co2",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Alex_&_Co2.json"
+    }
+   ]
+  },
+{
+   "title": "AleX Indagini Su Mondi Segreti",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/AleX_Indagini_Su_Mondi_Segreti.json"
+    }
+   ]
+  },
+{
+   "title": "Alf",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Alf.json"
+    }
+   ]
+  },
+{
+   "title": "Alfred Hitchcock Presenta",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Alfred_Hitchcock_Presenta.json"
+    }
+   ]
+  },
+{
+   "title": "Alias",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Alias.json"
+    }
+   ]
+  },
+{
+   "title": "Alice",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Alice.json"
+    }
+   ]
+  },
+{
+   "title": "Alien nation",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Alien_nation.json"
+    }
+   ]
+  },
+{
+   "title": "All American",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/All_American.json"
+    }
+   ]
+  },
+{
+   "title": "Alla Conquista del West",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Alla_Conquista_del_West.json"
+    }
+   ]
+  },
+{
+   "title": "Allegiance",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Allegiance.json"
+    }
+   ]
+  },
+{
+   "title": "Ally McBeal",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Ally_McBeal.json"
+    }
+   ]
+  },
+{
+   "title": "Almost Human",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Almost_Human.json"
+    }
+   ]
+  },
+{
+   "title": "Alphas",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Alphas.json"
+    }
+   ]
+  },
+{
+   "title": "Altered Carbon",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Altered_Carbon.json"
+    }
+   ]
+  },
+{
+   "title": "Altro Che Caffe",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Altro_Che_Caffe.json"
+    }
+   ]
+  },
+{
+   "title": "American Crime Story",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/American_Crime_Story.json"
+    }
+   ]
+  },
+{
+   "title": "American Dreams",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/American_Dreams.json"
+    }
+   ]
+  },
+{
+   "title": "American Gods",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/American_Gods.json"
+    }
+   ]
+  },
+{
+   "title": "American Gothic",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/American_Gothic.json"
+    }
+   ]
+  },
+{
+   "title": "American Horror Story-Apocalypse",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/American_Horror_Story-Apocalypse.json"
+    }
+   ]
+  },
+{
+   "title": "Amici di letto",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Amici_di_letto.json"
+    }
+   ]
+  },
+{
+   "title": "Amore di perdizione",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Amore_di_perdizione.json"
+    }
+   ]
+  },
+{
+   "title": "Amore Pensaci Tu",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Amore_Pensaci_Tu.json"
+    }
+   ]
+  },
+{
+   "title": "Andromeda",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Andromeda.json"
+    }
+   ]
+  },
+{
+   "title": "Angel",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Angel.json"
+    }
+   ]
+  },
+{
+   "title": "Angelas Eyes",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Angelas_Eyes.json"
+    }
+   ]
+  },
+{
+   "title": "Angeli e Diamanti",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Angeli_e_Diamanti.json"
+    }
+   ]
+  },
+{
+   "title": "Angels in America",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Angels_in_America.json"
+    }
+   ]
+  },
+{
+   "title": "Angie Tribeca",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Angie_Tribeca.json"
+    }
+   ]
+  },
+{
+   "title": "Animal Kingdom",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Animal_Kingdom.json"
+    }
+   ]
+  },
+{
+   "title": "Anna Dai Capelli Rossi",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Anna_Dai_Capelli_Rossi.json"
+    }
+   ]
+  },
+{
+   "title": "Anna e Yusef",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Anna_e_Yusef.json"
+    }
+   ]
+  },
+{
+   "title": "Anna Karenina",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Anna_Karenina.json"
+    }
+   ]
+  },
+{
+   "title": "Annika Crime Reporter",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Annika_Crime_Reporter.json"
+    }
+   ]
+  },
+{
+   "title": "Another Life",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Another_Life.json"
+    }
+   ]
+  },
+{
+   "title": "APB",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/APB.json"
+    }
+   ]
+  },
+{
+   "title": "Appunti Di Un Giovane Medico",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Appunti_Di_Un_Giovane_Medico.json"
+    }
+   ]
+  },
+{
+   "title": "Aquarius",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Aquarius.json"
+    }
+   ]
+  },
+{
+   "title": "Arrested Development Ti presento i miei",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Arrested_Development_Ti_presento_i_miei.json"
+    }
+   ]
+  },
+{
+   "title": "Arrow",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Arrow.json"
+    }
+   ]
+  },
+{
+   "title": "Arsenio Lupin",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Arsenio_Lupin.json"
+    }
+   ]
+  },
+{
+   "title": "Ascension",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Ascension.json"
+    }
+   ]
+  },
+{
+   "title": "Ashes to Ashes",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Ashes_to_Ashes.json"
+    }
+   ]
+  },
+{
+   "title": "Assassins Creed Lineage",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Assassins_Creed_Lineage.json"
+    }
+   ]
+  },
+{
+   "title": "A-Team",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/A-Team.json"
+    }
+   ]
+  },
+{
+   "title": "Atelier Fontana",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Atelier_Fontana.json"
+    }
+   ]
+  },
+{
+   "title": "Atlanta",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Atlanta.json"
+    }
+   ]
+  },
+{
+   "title": "Atlantis",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Atlantis.json"
+    }
+   ]
+  },
+{
+   "title": "Attacco allo stato",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Attacco_allo_stato.json"
+    }
+   ]
+  },
+{
+   "title": "Attenti a Quei 2-The Persuaders",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Attenti_a_Quei_2-The_Persuaders.json"
+    }
+   ]
+  },
+{
+   "title": "Atypical",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Atypical.json"
+    }
+   ]
+  },
+{
+   "title": "Augusto Il Primo Imperatore",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Augusto_Il_Primo_Imperatore.json"
+    }
+   ]
+  },
+{
+   "title": "Automan",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Automan.json"
+    }
+   ]
+  },
+{
+   "title": "Awake",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Awake.json"
+    }
+   ]
+  },
+{
+   "title": "Awkward",
+   "year": "",
+   "tmdb_id": "",
+   "genere": "",
+   "director": "",
+   "0-9_A-Z": "A",
+   "actors": [
+    ""
+   ],
+   "seasons_list": [
+    {
+     "season": "1",
+     "link": "/serie_list/A/Awkward.json"
+    }
+			]
+		}
+	]
+}

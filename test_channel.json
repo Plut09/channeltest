@@ -18,13 +18,13 @@
       "title": "Film (Sottomenu)",
       "link": "/movie2",
       "thumbnail": "channel_movies.png",
-      "submenu": {"search":"", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
+      "submenu": {"search":"", "actors":"Attori", "director":"Regista", "year":"Anno", "genere":"genere"}
     },
     {
       "title": "Film (Menu di 2° Livello)",
       "link": "/movie2",
       "thumbnail": "channel_movies.png",
-      "level2": {"search":"", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
+      "level2": {"search":"", "actors":"Attori", "director":"Regista", "year":"Anno", "genere":"genere"}
     },
     {
       "title": "Serie",

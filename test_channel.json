@@ -10,7 +10,7 @@
     },
   {
       "title": "Film (Submenu)",
-      "link": " /serie_list/Test_id",
+      "link": " /movie2",
       "thumbnail": "channel_movies.png",
       "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "genere":"genere"}
     },

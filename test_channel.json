@@ -1,24 +1,36 @@
-{
-  "channel_name": "Test Channel",
-  "fanart": "",
-  "thumbnail": "",
   "menu": [
     {
-      "title": "Film (Classico)",
+      "title": "Film (Menu Classico)",
       "link": "/movie2",
       "thumbnail": "channel_movies.png"
     },
-  {
-      "title": "Film (Submenu)",
-      "link": " /movie2",
+    {
+      "title": "Filtro Film (Es. Saga Marvel Cinematic Universe)",
+      "link": "/movie2",
       "thumbnail": "channel_movies.png",
-      "submenu":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "genere":"genere"}
+      "filter": {"saga":"Marvel Cinematic Universe"}
     },
     {
-      "title": "Serie Tv",
-      "link": "/menu_list.json",
+      "title": "Film (Sottomenu)",
+      "link": "/movie2",
       "thumbnail": "channel_movies.png",
-      "level2":{"actors":"Attori", "director":"Registi", "year":"Anni", "saga":"Saghe", "genere":"genere","search":""} 
- }
+      "submenu": {"search":"", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
+    },
+    {
+      "title": "Film (Menu di 2° Livello)",
+      "link": "/movie2",
+      "thumbnail": "channel_movies.png",
+      "level2": {"search":"", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
+    },
+    {
+      "title": "Serie",
+      "link": "/tvshow.json",
+      "thumbnail": "channel_tvshow.png"
+    },
+    {
+      "title": "Lista Generica",
+      "link": "/generic.json",
+      "thumbnail": "channel_tvshow.png"
+    }
   ]
 }
